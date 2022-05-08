@@ -17,6 +17,7 @@ One Time Pad Implementation in Rust.
 * [clap](https://crates.io/crates/clap)
 
 ## Installation
+Use a pre-compiled binary in releases or build from source:
 ```bash
 cargo install --git https://github.com/JeffResc/rust_one_time_pad
 ```
