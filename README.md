@@ -1,5 +1,6 @@
 # rust_one_time_pad
 One Time Pad Implementation in Rust.
+
 **Do not use this library for anything other than testing purposes.**
 
 ## One-time Pad Description
