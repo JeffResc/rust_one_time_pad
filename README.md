@@ -1,3 +1,5 @@
+[![Build Status](https://drone.jeffresc.dev/api/badges/JeffResc/rust_one_time_pad/status.svg)](https://drone.jeffresc.dev/JeffResc/rust_one_time_pad)
+
 # rust_one_time_pad
 One Time Pad Implementation in Rust.
 
